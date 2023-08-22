@@ -20,9 +20,9 @@ Desenvolvimento frontend.
 
 ## // Links
 
-![Static Badge](https://img.shields.io/badge/linkdoprojeto-green?logo=prefect&logoColor=green&labelColor=black&link=https%3A%2F%2Fazaw.vercel.app%2F)
+[![linkprojeto](https://img.shields.io/badge/veja_o_projeto-green?style=for-the-badge&logo=ko-fi&logoColor=green&labelColor=white)](https://linkptojeto.com/)
 
-![Static Badge](https://img.shields.io/badge/myportfolio-black?logo=coffeescript&logoColor=black&labelColor=white&link=https%3A%2F%2Fazaw.vercel.app%2F)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=prefect&logoColor=000&labelColor=white)](https://azweb.vercel.app/)
 
-![Static Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=blue&labelColor=white&link=https%3A%2F%2Fazaw.vercel.app%2F)
+[![linkedin](https://img.shields.io/badge/conect_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/patricklimax/)
 
