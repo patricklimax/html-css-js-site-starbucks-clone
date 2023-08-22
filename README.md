@@ -8,7 +8,7 @@ Desenvolvimento frontend.
 
 ## // Autores
 
-- [@patricklimax](https://www.github.com/octokatherine)
+- [@patricklimax](https://www.github.com/patricklimax)
 
 
 ## // Stack utilizada
