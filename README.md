@@ -1,28 +1,15 @@
+# Clone do Starbucks
 
-# Clone do site Starbucks
+## Descrição
+O "Clone do Starbucks" é um projeto desenvolvido como parte do Curso FullStack da B7WEB. O objetivo deste projeto é recriar a interface do site da Starbucks, utilizando HTML, CSS e Grid Layout. O foco está na prática de design responsivo e na aplicação de conceitos modernos de layout.
 
-Projeto Starbucks - projeto simples para consolidação de conhecimento durante o curso fullstack da B7 Web. Conhecimento de HTML e CSS: flex, grid.
+## Tecnologias
+- **HTML**: Estruturação do conteúdo da página. <br>
+- **CSS**: Estilização e apresentação visual do projeto.<br>
+- **Grid Layout**: Utilização do CSS Grid para criar layouts responsivos e dinâmicos.
 
-Desenvolvimento frontend.
-
-
-## // Autores
-
-- [@patricklimax](https://www.github.com/patricklimax)
-
-
-## // Stack utilizada
-
-**Front-end:** HTML e CSS
-
-**Back-end:** Não utilizado
-
-
-## // Links
-
-[![linkprojeto](https://img.shields.io/badge/veja_o_projeto-green?style=for-the-badge&logo=ko-fi&logoColor=green&labelColor=white)](https://starbucksclone-az.vercel.app/)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=prefect&logoColor=000&labelColor=white)](https://azweb.vercel.app/)
-
-[![linkedin](https://img.shields.io/badge/conect_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/in/patricklimax/)
-
+## Funcionalidades
+- Layout responsivo que se adapta a diferentes tamanhos de tela.<br>
+- Estilização fiel ao design original do site da Starbucks.<br>
+- Navegação intuitiva entre as seções do site.<br>
+- Imagens e ícones representativos dos produtos e serviços oferecidos.
